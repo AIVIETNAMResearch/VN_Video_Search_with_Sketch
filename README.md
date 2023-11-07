@@ -49,7 +49,11 @@
     ```
 ## Usage
 * ### Frames Extraction
-    After activating conda environment, navigate to backend/Notebook/Transnet.ipynb for frame extraction. Run the notebook with AIC_ENV environment in [Backend Instruction](#backend)
+    After activating conda environment, navigate to `backend/Notebook/Transnet.ipynb` for frame extraction. Run the notebook with AIC_ENV environment in [Backend Instruction](#backend).
+
+* ### Creating binary files
+    Please refer to `backend/Notebook` for creating binary files for CLIP and Sketch Model.
+    
 * ### MongoDB Database 
     For database, make sure to turn on the driver for mongo. Please take a look at the [Install MongoDB and Anaconda](#install-mongodb-and-anaconda) for references. Navigate to backend folder and run the command below for pushing data into database.
     ```
