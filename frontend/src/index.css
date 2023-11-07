@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Valorax";
+  src: url('./fonts/Valorax-lg25V.otf');
+}
+
+
+body {
+  margin: 0;
+  font-family: "Valorax";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #2A363B;
+  background-image: url('./assets/background_image.jpg');
+  background-position: center bottom;
+  background-size: 150%;
+  background-repeat: no-repeat;
+  
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

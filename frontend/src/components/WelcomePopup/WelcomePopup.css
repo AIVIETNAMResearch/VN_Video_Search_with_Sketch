@@ -1,0 +1,16 @@
+.welcome-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 16px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.welcome-message {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
