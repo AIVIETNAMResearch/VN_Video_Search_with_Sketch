@@ -1,5 +1,5 @@
 # Enhacing Video Retrival with Robust CLIP-Based Multimodal System
-
+[[SOICT'23]](https://dl.acm.org/doi/10.1145/3628797.3629011)
 ## Authors
 
 * [Tuan Quang](https://github.com/thq1995)
